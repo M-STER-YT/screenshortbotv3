@@ -20,12 +20,12 @@ async def start(c, m):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('📌  Support Group', url='https://t.me/InFoTelGroup'),
-                    InlineKeyboardButton('🔖  Projects Channel', url='https://t.me/TGBotsZ')
+                    InlineKeyboardButton('📌  Support Group', url='https://t.me/M_SRER_TECH_GROUP'),
+                    InlineKeyboardButton('🔖  Projects Channel', url='https://t.me/M_STER_TECH')
                 ],
                 [
                     InlineKeyboardButton('💡  Source Code', url='https://github.com/TGExplore/Screenshot-Bot'),
-                    InlineKeyboardButton('👨  Master', url='https://t.me/odbots')
+                    InlineKeyboardButton('👨  Master', url='https://t.me/CYBER_YT1')
                 ]
             ]
         )
