@@ -9,56 +9,56 @@
    "Trim Video",
    "without downloading the entire file"
   ],
-  "repository": "https://github.com/TGExplore/Screenshot-Bot",
+  "repository": "https://github.com/M-STER-YT/screenshortbotv3",
   "env": {
     "API_ID": {
-      "description": "Your Telegram API ID. Get this value from my.telegram.org!",
+      "description": "vediyoyil kanunathupole cheyuka",
       "value": ""
     },
     "API_HASH": {
-      "description": " Your Telegram API HASH. Get this value from my.telegram.org!",
+      "description": "vediyoyil kanunathupole cheyuka",
       "value": ""
     },
     "BOT_TOKEN": {
-      "description": "Your Bot token, as a string.",
+      "description": "vediyoyil kanunathupole cheyuka.",
       "value": ""
     },
     "SESSION_NAME": {
-      "description": "Name you want to call your bot's session, Eg: bot username.",
+      "description": "vediyoyil kanunathupole cheyuka",
       "value": ""
     },
     "LOG_CHANNEL": {
-      "description": "Log channel's id.",
+      "description": "vediyoyil kanunathupole cheyuka.",
       "value": ""
     },
     "DATABASE_URL": {
-      "description": "Mongodb database URI from https://cloud.mongodb.com/",
+      "description": "vediyoyil kanunathupole cheyuka",
       "value": ""
     },
     "AUTH_USERS": {
-      "description": "Authorised user(s) id separated by space.",
+      "description": "vediyoyil kanunathupole cheyuka",
       "value": ""
     },
     "HOST": {
-      "description": "Public URL of streaming service (https://github.com/TGExplore/musical-waddle)",
+      "description": "vediyoyil kanunathupole cheyuka",
       "value": ""
     },
     "MAX_PROCESSES_PER_USER": {
-      "description": "Number of parallel processes each user can have, defaults to 2.",
+      "description": "ivade onum kodukanda.",
       "value": "2",
       "required": false
     },
     "MAX_TRIM_DURATION": {
-      "description": "Maximum allowed seconds for trimming. Defaults to 600.",
+      "description": "ivade onum kodukanda.",
       "value": "600",
       "required": false
     },
     "TRACK_CHANNEL": {
-      "description": "User activity tracking channel's id. Only needed if you want to track and block any user. Disabled by default.",
+      "description": "vediyoyil kanunathupole cheyuka.",
       "required": false
     },
     "SLOW_SPEED_DELAY": {
-      "description": "Delay required between each request. Defaults to 15s.",
+      "description": "ivade onum cheyandathilla.",
       "value": "15",
       "required": false
     } 
