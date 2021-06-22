@@ -24,7 +24,7 @@ async def start(c, m):
                     InlineKeyboardButton('🔖  Projects Channel', url='https://t.me/M_STER_TECH')
                 ],
                 [
-                    InlineKeyboardButton('💡  Source Code', url='https://github.com/TGExplore/Screenshot-Bot'),
+                    InlineKeyboardButton('💡  Source Code', url='https://github.com/M-STER-YT/screenshortbotv3.git'),
                     InlineKeyboardButton('👨  Master', url='https://t.me/CYBER_YT1')
                 ]
             ]
