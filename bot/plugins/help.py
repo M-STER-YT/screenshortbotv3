@@ -4,7 +4,7 @@ from ..screenshotbot import ScreenShotBot
 
 
 HELP_TEXT = """
-Hi {}. Welcome to Screenshot Generator Bot. You can use me to generate
+Hi {}. Welcome to Screenshot v3 Generator Bot. You can use me to generate
 
     1. Screenshots.
     2. Sample Video.
@@ -18,7 +18,9 @@ Hi {}. Welcome to Screenshot Generator Bot. You can use me to generate
 👉 If the bot dosen't respond to telegram files you forward, first check /start and --confirm bot is alive--. Then make sure the file is a **video file** which satisfies above mentioned conditions. 
 👉 If bot replies __😟 Sorry! I cannot open the file.__, the file might be --currupted-- or --is malformatted--.
 
-__If issues persists contact my father.__"""
+__If issues persists contact my father.__
+
+@M_STER_TECH"""
 
 
 @ScreenShotBot.on_message(Filters.private & Filters.command("help"))
